@@ -1,0 +1,22 @@
+img.tes{
+
+    filter: grayscale(1);
+}
+
+img.tes:hover{
+    /* border-radius: 360px; */
+    transform: translateY(-0.5rem);
+/* transform: scale(1.2); */
+    filter: none;
+
+
+}
+ul.PP{
+position: fixed;
+inset: 0;
+background-color:burlywood;
+backdrop-filter: blur(24px);
+-webkit-backdrop-filter: blur(24px);  
+
+
+}

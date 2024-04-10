@@ -1,0 +1,82 @@
+img.c111{
+
+    filter: grayscale(1);
+}
+
+img.c111:hover{
+    border-radius: 360px;
+transform: scale(1.3);
+    filter: none;
+
+
+}
+img#class6677{
+
+filter: none;
+
+}
+div#vbvb{
+
+    box-shadow:inset;box-shadow: 10px 10px 5px 12px lightblue;
+
+
+
+}
+#vbvb:hover{
+    
+    transform: scale(1.2);
+
+
+
+}
+#vfvf:hover{
+    
+    transform: scale(1.2);
+
+
+
+}
+#vcvc:hover{
+    
+    transform: scale(1.2);
+
+
+
+}
+div#vcvc{
+
+    box-shadow:inset;box-shadow: 10px 10px 5px 12px lightblue;
+
+
+
+}
+div#vfvf{
+
+    box-shadow:inset;box-shadow: 10px 10px 5px 12px lightblue;
+
+
+
+}
+*{
+
+z-index: 2;
+
+
+}
+#mmm{
+z-index: 10;
+
+
+
+}
+
+
+
+@media only screen and(max-width:400px) { 
+    #ses  {
+        width : 90%;
+        height: 90%;
+    }
+  
+    
+}
